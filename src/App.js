@@ -441,7 +441,7 @@ class Template extends React.Component {
             </div>
           </nav>
           <section id="sidebar" className="open bg-black h-full fixed left-0 top-0 mt-14 sm:mt-0 text-white p-3 sm:block transition-all duration-700 z-40 shadow-2xl">
-            <h1 className="text-center font-bold pb-5 pt-5">Clone Spotify <br/><a href="https://github.com/ferdiansyah0611" target="_blank" rel="noreferrer" className="underline">by Ferdiansyah</a></h1>
+            <h1 className="text-center font-bold pb-5 pt-5">Clone Spotify <br/><a href="https://github.com/ricwork" target="_blank" rel="noreferrer" className="underline">by ricwork</a></h1>
             <ul>
               <li className="flex">
                 <NavLink exact to="/" activeClassName="font-bold text-opacity-100 bg-gray-600" className="text-white font-bold text-opacity-50 hover:text-opacity-100 w-full p-2 rounded-md">
